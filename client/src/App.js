@@ -11,8 +11,7 @@ function App() {
       <div className="App">
         <header className="App-header">
          
-          <p></p>
-          
+          <h1 className="App-title">Fib Calulator </h1>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
